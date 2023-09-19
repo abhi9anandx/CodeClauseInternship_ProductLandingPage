@@ -1,0 +1,22 @@
+@media screen and (max-width:1185px){
+    header{
+        height: 25vh;
+    }
+    nav{
+        height: 25vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .slider{
+        height: fit-content;
+    }
+    .slider img{
+        height: 30vh;
+        width: fit-content;
+        padding-bottom: -50px;
+    }
+    .sale{
+        overflow: hidden;
+    }
+}
